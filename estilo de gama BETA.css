@@ -1,0 +1,203 @@
+/*toda la pagina*/
+.gz3{
+ text-align: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(22, 21, 21);
+    font-family: sans-serif;
+}
+/*fin de lo que abarca toda la pagina*/
+
+/*diseño de logo*/
+.z02 {
+    background-color: rgb(22, 21, 21);
+    border: 22.5px solid rgb(22, 21, 21); 
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 0px;
+    margin-bottom: -90px;
+    border-top: 20px solid rgb(22, 21, 21);
+}
+/*fin de diseño del logo*/
+
+/*diseño del sleep*/
+.g02 {
+    background-color: rgb(122, 12, 12);
+     text-align: right;
+     margin-left: 0px;
+     margin-top: 50px;
+     width: auto;
+     height: auto;
+     border: 0 solid rgb(122, 12, 12);
+}
+/*fin de diseño del sleep*/
+
+
+/*como es el tipo de letra*/
+head,h1,footer,body {
+    color: green;
+}
+/*fin de como es el tipo de letra*/
+
+
+/*diseño del pie de pagina*/
+.p3 {
+    border-top: 80px solid rgb(122, 12, 12);
+    background-color: rgb(31, 29, 29);
+    border-bottom: 200px solid rgb(31, 29, 29);
+}
+.p6 {
+    margin-top: 10px;
+    border-left: 20px solid rgb(31, 29, 29);
+text-align: left;
+background-color: rgb(31, 29, 29);
+color: rgb(49, 83, 15);
+}
+/*fin del diseño de pie de pagina*/
+
+/*diseño de busqueda*/
+.z03 {
+    text-align: center;
+    margin-top: -192px;
+    margin-bottom: -20px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 145px;
+}
+/*fin del diseño de busqueda*/
+
+/*diseño de la navegacion*/
+.yy2 {
+    background-color: rgb(122, 12, 12);
+    margin-right: 200px;
+    color: gray;
+    border: 10px solid rgb(122, 12, 12);
+}
+/*fin diseño de la navegacion*/
+
+/*diseño de h2*/
+h2 {
+    font-size: 20px;
+}
+/*fin diseño de h2*/
+
+/*diseño de todo el body*/
+.p2 {
+    text-align: center; 
+}
+/*fin de diseño de todo el body*/
+
+/*diseño imagenes del body*/
+.yeh {
+    border-top: 80px solid rgb(22, 21, 21);
+    background-color: rgb(22, 21, 21);
+    border-bottom: 90px solid rgb(22, 21, 21);
+}
+
+
+.hey {
+    border-top: 100px solid rgb(22, 21, 21);
+    background-color: rgb(22, 21, 21);
+    border-bottom: 100px solid rgb(22, 21, 21);
+}
+
+.z {
+    font-family: Calibri;
+    font-size: 30px;
+    border-bottom: 20px solid rgb(22, 21, 21)
+}
+
+
+
+.p {
+    font-family: Calibri;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.zzz {
+    border-top: 60px solid rgb(22, 21, 21);
+    background-color: rgb(22, 21, 21);
+    border-bottom: 100px solid rgb(22, 21, 21);
+    
+}
+
+.d {
+    font-family: Calibri;
+    font-size: 30px;
+    border-bottom: 20px solid rgb(22, 21, 21);
+    margin-top: 100px ;
+}
+
+.b {
+    border-bottom: 40px solid rgb(22, 21, 21);
+}
+
+.z {
+    margin-top: 100px;
+}
+
+.ors {
+     margin-top: 50px;
+}
+/*fin de diseño de imagenes del body*/
+
+/*diseño de la parte superior*/
+.op {
+   height: 30px;
+   background-color: rgb(31, 29, 29);
+   border: none;
+   color: rgb(56, 52, 52);
+   text-align: left;
+   border-left: 300px solid  rgb(31, 29, 29);
+   border-top: 5px solid rgb(31, 29, 29);
+}
+/*fin de diseño de la parte superior*/
+
+/*diseños de las imagenes de marcas*/
+.p350 {
+    background-color: rgb(31, 29, 29);
+}
+
+.p380 {
+    background-color: rgb(31, 29, 29);
+    border-bottom: 60px solid rgb(31, 29, 29);
+}
+/*fin de la imagenes de marcas*/
+
+/*diseño de la lista de deseos*/
+.r03 {
+    text-align: right;
+    color: rgb(185, 178, 178);
+    margin-left: 600px;
+    margin-top: 0px;
+    height: 22px;
+    width: 22px;
+}
+/*fin de diseño de la lista de deseos*/
+
+
+/*diseño de joinbutton de instagram*/
+.p345 {
+    text-decoration: none;
+    text-align: left;
+    margin-right: 60px;
+    background-color: transparent;
+    background-color: transparent;
+    border: none;
+    position: fixed;
+    right: -40px;
+    top: 580px;
+    font-size: 15px;
+    border-radius: 100px;
+}
+
+.iconig {
+ border-radius: 10px;
+ height: 55px;
+ width: 55px;
+}
+/*fin de diseño de joinbutton de instagram*/
